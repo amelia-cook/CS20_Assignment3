@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="stylesheet.css"?>
+<Music>
+    <heading> See Silver Arrow Band's Setlist! </heading>
+    <Band name = "Silver Arrow Band">
+        <Song>
+            <artist> Ed Sheeran </artist>
+            <title> Perfect </title>
+            <genre> Top 40 </genre>
+            <year> 2017 </year>
+        </Song>
+        <Song>
+            <artist> Lizzo </artist>
+            <title> Juice </title>
+            <genre> Top 40 </genre>
+            <year> 2019 </year>
+        </Song>
+        <Song>
+            <artist> Harry Styles </artist>
+            <title> Watermelon Sugar </title>
+            <genre> Top 40 </genre>
+            <year> 2019 </year>
+        </Song>
+        <Song>
+            <artist> Zac Brown Band </artist>
+            <title> Chicken Fried </title>
+            <genre> Rock </genre>
+            <year> 2005 </year>
+        </Song>
+        <Song>
+            <artist> Billy Joel </artist>
+            <title> Only the Good Die Young </title>
+            <genre> Rock </genre>
+            <year> 1977 </year>
+        </Song>
+        <Song>
+            <artist> Lynyrd Skynyrd </artist>
+            <title> Sweet Home Alabama </title>
+            <genre> Rock </genre>
+            <year> 1974 </year>
+        </Song>
+        <Song>
+            <artist> Whitney Houston </artist>
+            <title> I Wanna Dance With Somebody </title>
+            <genre> Pop </genre>
+            <year> 1987 </year>
+        </Song>
+        <Song>
+            <artist> Outkast </artist>
+            <title> Hey Ya </title>
+            <genre> Pop </genre>
+            <year> 2003 </year>
+        </Song>
+        <Song>
+            <artist> Rick Springfield </artist>
+            <title> Jessie's Girl </title>
+            <genre> Pop </genre>
+            <year> 1981 </year>
+        </Song>
+        <Song>
+            <artist> The Killers </artist>
+            <title> Mr. Brightside </title>
+            <genre> Pop </genre>
+            <year> 2003 </year>
+        </Song>
+    </Band>
+</Music>
