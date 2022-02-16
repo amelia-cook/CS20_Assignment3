@@ -1,0 +1,25 @@
+Music {
+     color: white;
+     background-color: gray;
+     width: 100%;
+}
+heading {
+     color: black;
+     font-size: 40px;
+     background-color: powderblue;
+     text-align: center;
+     padding: 10px;
+}
+heading, artist, title, genre, year {
+     display: block;
+     text-align: center;
+}
+artist {
+     font-size: 30px;
+     font-weight: bold;
+     text-decoration: underline;
+}
+title {
+    font-size: 25px;
+    font-style: italic;
+}
