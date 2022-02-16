@@ -63,5 +63,17 @@
             <genre> Pop </genre>
             <year> 2003 </year>
         </Song>
+        <Song>
+            <artist> The Beatles </artist>
+            <title> Here Comes the Sun </title>
+            <genre> Traditional </genre>
+            <year> 1969 </year>
+        </Song>
+        <Song>
+            <artist> Louis Armstrong </artist>
+            <title> What a Wonderful World </title>
+            <genre> Traditional </genre>
+            <year> 1968 </year>
+        </Song>
     </Band>
 </Music>
